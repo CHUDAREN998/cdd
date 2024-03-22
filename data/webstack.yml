@@ -16,11 +16,11 @@
 - taxonomy: 影视站点
   icon: fa-star
   links: 
-    - title: 谷歌
-      url: https://www.google.com/
+    - title: 可可影视
+      url: https://www.keke13.com:51111/
       logo:
       qrcode:
-      description: 在线跨屏剪切文字
+      description:
     - title: 草料二维码
       qrcode: images/qrcodes/cli.png
       url: https://cli.im/url

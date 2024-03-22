@@ -7,12 +7,12 @@
       logo:
       qrcode:
       description: 
-    - title: youtybe
+    - title:youtybe
       qrcode: 
-      url:https://www.youtube.com/
+      url: https://www.youtube.com/
       description: 
-    - title: 在线文件传输
-      url: https://musetransfer.com/
+    - title: cloudflare
+      url: https://cloudflare.com
 - taxonomy: 影视站点
   icon: fa-star
   links: 

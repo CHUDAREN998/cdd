@@ -7,9 +7,9 @@
       logo:
       qrcode:
       description: 
-    - title:youtybe
+    - title: youtybe
       qrcode: 
-      url: https://www.youtube.com/
+      url: https://www.youtube.com
       description: 
     - title: cloudflare
       url: https://cloudflare.com
@@ -17,7 +17,7 @@
   icon: fa-star
   links: 
     - title: 可可影视
-      url: https://www.keke13.com:51111/
+      url: https://www.keke13.com:51111
       logo:
       qrcode:
       description:

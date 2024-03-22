@@ -1,5 +1,5 @@
 ---
-- taxonomy: 常用工具
+- taxonomy: 热门网站
   icon: fa-star
   links: 
     - title: 谷歌
@@ -13,7 +13,7 @@
       description: 在线二维码生成工具
     - title: 在线文件传输
       url: https://musetransfer.com/
-- taxonomy: 常用工具
+- taxonomy: 影视站点
   icon: fa-star
   links: 
     - title: 谷歌
@@ -27,7 +27,7 @@
       description: 在线二维码生成工具
     - title: 在线文件传输
       url: https://musetransfer.com/
-- taxonomy: 常用工具
+- taxonomy: 网络资源
   icon: fa-star
   links: 
     - title: 谷歌
@@ -41,7 +41,7 @@
       description: 在线二维码生成工具
     - title: 在线文件传输
       url: https://musetransfer.com/
-- taxonomy: 常用工具
+- taxonomy: 个性网站
   icon: fa-star
   links: 
     - title: 谷歌

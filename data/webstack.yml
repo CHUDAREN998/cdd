@@ -27,7 +27,48 @@
       description: 在线二维码生成工具
     - title: 在线文件传输
       url: https://musetransfer.com/
-
+- taxonomy: 常用工具
+  icon: fa-star
+  links: 
+    - title: 谷歌
+      url: https://www.google.com/
+      logo:
+      qrcode:
+      description: 在线跨屏剪切文字
+    - title: 草料二维码
+      qrcode: images/qrcodes/cli.png
+      url: https://cli.im/url
+      description: 在线二维码生成工具
+    - title: 在线文件传输
+      url: https://musetransfer.com/
+- taxonomy: 常用工具
+  icon: fa-star
+  links: 
+    - title: 谷歌
+      url: https://www.google.com/
+      logo:
+      qrcode:
+      description: 在线跨屏剪切文字
+    - title: 草料二维码
+      qrcode: images/qrcodes/cli.png
+      url: https://cli.im/url
+      description: 在线二维码生成工具
+    - title: 在线文件传输
+      url: https://musetransfer.com/
+- taxonomy: 常用工具
+  icon: fa-star
+  links: 
+    - title: 谷歌
+      url: https://www.google.com/
+      logo:
+      qrcode:
+      description: 在线跨屏剪切文字
+    - title: 草料二维码
+      qrcode: images/qrcodes/cli.png
+      url: https://cli.im/url
+      description: 在线二维码生成工具
+    - title: 在线文件传输
+      url: https://musetransfer.com/
   
 
 

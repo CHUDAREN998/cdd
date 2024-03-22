@@ -8,10 +8,10 @@
       url: https://www.youtube.com
       description:
     - title: CHATGPT
-      qrcode: images/qrcodes/bk.png
+      qrcode:
       logo:
       url: https://chat.openai.com/
-      description: 资源分享，详细图文教程。
+      description:
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png

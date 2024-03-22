@@ -3,7 +3,7 @@
   icon: fa-star
   links: 
     - title: 谷歌
-      url: https://www.google.com/
+      url: https://www.google.com
       logo:
       qrcode:
       description: 
@@ -13,6 +13,8 @@
       description: 
     - title: cloudflare
       url: https://cloudflare.com
+    - title: github
+      url: https://github.com
 - taxonomy: 影视站点
   icon: fa-star
   links: 

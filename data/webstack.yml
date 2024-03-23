@@ -1,16 +1,16 @@
 ---
 - taxonomy: 常用网站
   icon: fa-star
-  links: 
+  links:
     - title: 谷歌
       url: https://www.google.com
       logo:
       qrcode:
-      description: 
+      description:
     - title: youtybe
-      qrcode: 
+      qrcode:
       url: https://www.youtube.com
-      description: 
+      description:
     - title: cloudflare
       url: https://cloudflare.com
     - title: github
